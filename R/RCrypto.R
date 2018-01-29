@@ -2,7 +2,6 @@
 currencies_list_CoinMarketCap <- c("AUD", "BRL", "CAD", "CHF", "CLP", "CNY", "CZK", "DKK", "EUR", "GBP", "HKD", "HUF", "IDR", "ILS", "INR", "JPY", "KRW", "MXN", "MYR", "NOK", "NZD", "PHP", "PKR", "PLN", "RUB", "SEK", "SGD", "THB", "TRY", "TWD", "ZAR", "USD")
 
 globalVariables("symbol")
-#symbol <- NULL
 
 # coinmarketcap resets the endpoint every 5 minutes
 # to avoid connection timeout httr was used instead of RCurl
