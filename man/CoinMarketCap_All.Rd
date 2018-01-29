@@ -1,7 +1,7 @@
 \name{CoinMarketCap_All}
 \alias{CoinMarketCap_All}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{coinamrketcap all currencies}
+\title{Coinamrketcap All Currencies}
 \description{Get all currencies from the coinmarketcap api}
 \usage{
 CoinMarketCap_All(currency)

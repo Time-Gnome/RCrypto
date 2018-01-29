@@ -1,6 +1,6 @@
 Package: RCrypto
 Type: Package
-Title: httr implementation of the coinmarketcap api
+Title: Httr Implementation of the Coinmarketcap API
 Version: 0.1.0
 Imports:
 	dplyr,
@@ -8,7 +8,8 @@ Imports:
 	httr
 Author: Joey McGraw (Time-Gnome)
 Maintainer: Joey McGraw <joeymcgraw@live.com>
-Description: Pulls data from the coinmarketcap.com api and presents it in a dataframe.
+URL: https://github.com/Time-Gnome/RCrypto
+Description: Pulls data from the coinmarketcap.com API and presents it in a dataframe.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
