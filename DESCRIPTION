@@ -9,7 +9,7 @@ Imports:
 Author: Joey McGraw (Time-Gnome)
 Maintainer: Joey McGraw <joeymcgraw@live.com>
 URL: https://github.com/Time-Gnome/RCrypto
-Description: Pulls data from the coinmarketcap.com API and presents it in a dataframe.
+Description: Pulls data from the <https://coinmarketcap.com/api/> API and presents it in a dataframe.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
