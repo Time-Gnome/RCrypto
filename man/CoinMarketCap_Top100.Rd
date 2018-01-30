@@ -1,8 +1,8 @@
 \name{CoinMarketCap_Top100}
 \alias{CoinMarketCap_Top100}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Coinmarketcap Top 100 Currencies}
-\description{Gets the top 100 currencies from coinmarketcap api and creates a dataframe}
+\title{'Coinmarketcap' Top 100 Currencies}
+\description{Gets the top 100 currencies from 'coinmarketcap' api and creates a dataframe}
 \usage{
 CoinMarketCap_Top100(currency)
 }

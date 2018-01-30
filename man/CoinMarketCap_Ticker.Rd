@@ -1,7 +1,7 @@
 \name{CoinMarketCap_Ticker}
 \alias{CoinMarketCap_Ticker}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{Coinmarketcap Select Ticker Symbol}
+\title{'Coinmarketcap' Select Ticker Symbol}
 \description{Gets a dataframe based on selected ticker symbol}
 \usage{
 CoinMarketCap_Ticker(currency, ticker)
